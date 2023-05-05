@@ -1,0 +1,4 @@
+a-) git pull tire les modifications en les fusionnant aux fichiers locaux tandis git fetch ne fusionne pas
+b-) git checkout --nom du fichier
+c-) git push --delete nom du fichier
+d-) git log nom du fichier
